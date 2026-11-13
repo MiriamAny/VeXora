@@ -1,77 +1,76 @@
+
 [
   {
     "id": 1,
     "nombre": "LATINA",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/MOsWriY.png)",
-    "url": "[190.93.224.42](http://190.93.224.42/LATINA/index.m3u8)"
+    "imagen": "https://i.imgur.com/MOsWriY.png",
+    "url": "http://190.93.224.42/LATINA/index.m3u8"
   },
   {
     "id": 2,
     "nombre": "ATV",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/eUzYZfg.png)",
-    "url": "[190.93.224.42](http://190.93.224.42/ATV/index.m3u8)"
+    "imagen": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ATV%20Peru%202025.svg",
+    "url": "http://190.93.224.42/ATV/index.m3u8"
   },
   {
     "id": 3,
     "nombre": "LaFabulosa",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/GjME5H0.png)",
-    "url": "[eu1.servers10.com](https://eu1.servers10.com:8081/8004/index.m3u8)"
+    "imagen": "https://i.imgur.com/GjME5H0.png",
+    "url": "https://eu1.servers10.com:8081/8004/index.m3u8"
   },
   {
     "id": 4,
     "nombre": "PANAMERICANA",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/uQhEDES.png)",
-    "url": "[45.171.108.253](http://45.171.108.253:8888/PANAMERICANA/index.m3u8)"
+    "imagen": "https://i.imgur.com/uQhEDES.png",
+    "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
   },
   {
     "id": 5,
     "nombre": "ElChavo",
     "categoria": "Nacional",
-    "imagen": "[gia.tv](https://gia.tv/streams/pptv/211465.png)",
-    "url": "[live20.bozztv.com](https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8)"
+    "imagen": "https://gia.tv/streams/pptv/211465.png",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
   },
   {
     "id": 6,
     "nombre": "TeleFormula",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/y0a0xwY.png)",
-    "url": "[mdstrm.com](https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8)"
+    "imagen": "https://i.imgur.com/y0a0xwY.png",
+    "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8"
   },
   {
     "id": 7,
     "nombre": "TVLobo",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/q9p1Spj.png)",
-    "url": "[5ca9af4645e15.streamlock.net](https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8)"
+    "imagen": "https://i.imgur.com/q9p1Spj.png",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
   },
   {
     "id": 8,
     "nombre": "ITVDeportes",
     "categoria": "Nacional",
-    "imagen": "[iili.io](https://iili.io/J1kV1Bn.png)",
-    "url": "[thm-it-roku.otteravision.com](https://thm-it-roku.otteravision.com/thm/it/it.m3u8)"
+    "imagen": "https://iili.io/J1kV1Bn.png",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
   },
   {
     "id": 9,
     "nombre": "tvCine",
     "categoria": "Nacional",
-    "imagen": "[upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png)",
-    "url": "[live-fi.tvkaista.net](https://live-fi.tvkaista.net/star-channel/live.m3u8)"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8"
   },
   {
     "id": 10,
     "nombre": "TvCine",
     "categoria": "Nacional",
-    "imagen": "[i.imgur.com](https://i.imgur.com/cZWoJWD.png)",
-    "url": "[streaming.onnethn.com](https://streaming.onnethn.com/CINEMAX/playlist.m3u8)"
+    "imagen": "https://i.imgur.com/cZWoJWD.png",
+    "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8"
   }
 ]
-
-
 
 
     
